@@ -21,3 +21,14 @@
   - 😹
   - ✨
   - 🍦
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-F (control find)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Ctrl-Y (redo last action)
+- Ctrl-Z (undo last action)
